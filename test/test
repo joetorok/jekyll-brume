@@ -1,8 +1,0 @@
-function setup () {
-  createCanvas(400, 400);
-  foo = 100;
-  rect(foo, foo, foo, foo);
-}
-function draw() {
-
-}
