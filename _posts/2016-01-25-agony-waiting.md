@@ -3,6 +3,7 @@ layout: post
 title: Strange Lands
 categories: reflection coding
 ---
+
 In these first two weeks of coding, I've been working to track, mentally, the balance of emotions as I learn. So far, frustration is winning out, as one might have anticipated. I want to stay with this for a moment and try to do more than name the emotion, though.
 
 I think part of the frustration I am feeling can also be attributed to **disorientation**. The **space** of the screen is not new to me, of course--I've been interacting to screens my entire life. But prior interactions have been primarily passive, or receptive, in nature. Creating and editing my own and remixing other peoples' videos had given me some sense of the space of a screen. In past projects, I've had to account for composition, sonic elements, lighting, etc., in televisual projects that oriented me differently to the screen.
