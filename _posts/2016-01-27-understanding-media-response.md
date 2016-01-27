@@ -3,6 +3,7 @@ layout: post
 title: Baseball: Because Culture
 categories: reading-notes mcluhan undertsnading-media media-theory
 ---
+
 As I'm reading through McLuhan (and some of the passages last week in Benjamin) my macro-take is that, often, there's a sneaky lot of totalization and over-determination going on: specifically techno-determination. In chapter one, the first paragraph sets the stage for this as McLuhan sets out his project's premise pretty plainly: "the personal and social consequences of any medium ... result from the new scale that is introduced into our affairs by each extension of ourselves, or by any new technology" (7). I don't think this is a particularly ground-shattering take on McLuhan, but it's one of the stronger residual impressions I am  left with after sitting with this text.
 
 Let's get a bit closer to one of his examples, bracketing in this discussion the hot/cold media distinctions that, no matter how hard I try, end up baffled by. Let's take "Games" (234).
