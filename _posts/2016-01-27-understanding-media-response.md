@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Baseball: Because Culture
+title: Understanding Media Response
 categories: reading-notes mcluhan undertsnading-media media-theory
 ---
 
