@@ -1,0 +1,12 @@
+---
+layout: post
+title: Groundhoginess of Coding
+categories: code practice
+---
+In this past week of coding, I've at times felt a bit like Bill Murray's Phil Conners in *Groundhog Day*: trapped inside a never-ending loop while experiencing slightly different results based on little experiments and choices that I've tweaked.
+
+Recursiveness, in other words. And what's interesting to me, bracketing how it's made me feel for a moment, is how the recursive nature of what I'm doing when coding--code, test, tweak, test, repeat--is a similar process to what the software will be doing once I've completed it: looping over and over again, tweaked by user input, events, or bugs. I'm drawn to this concept of recursiveness, and I want to sit with it for the next few weeks as I continue the dailies.
+
+But how does it make me *feel*? I might answer that first by exploring how it *doesn't* make me feel, which is to suggest that, when coding's going good, I think I enter a bit of a [flow state](https://en.wikipedia.org/wiki/Flow_(psychology). I feel immersed in the work that I'm doing and loose track of time. I look up at the clock and it's quarter after 10, next thing I know I make than damn ball bounce all around the screen and it's 11:30. In a snap, just like that. To some extent, this comes from sentiments I share with thoughts [Dianna shared on coding last week](http://dianarosenberger.github.io/blog/2016-01-27/week2-2ndpost.html): even if I get the code right, I feel like I need to understand how before I move on. SO I get lost both in the actual exercise of coding and in the conceptual realm of understanding how the code works.
+
+Like [Aden](http://adenj86.github.io/blog/2016-01-28/First-Lab.html), though, the not so cheery emotive response is peppered with frustration, a sense of being lost, and irritation. I got stuck trying to make that little ball bounce all around the page, and not just back and forth on a diagonal. My frustration an irritation scattered my attention as I searched for samples online to help me solve this little puzzle, or began and stopped a handful of videos that ended up being not so helpful. This sense of being lost expanded beyond the "I don't get it" of learning code and creeped into a sense of I don't even know what I'm trying to figure out anymore, leading me eventually to some necessary quality time reading [Gawker](http://gawker.com/). I go for the click-bait and linger for the comments.
