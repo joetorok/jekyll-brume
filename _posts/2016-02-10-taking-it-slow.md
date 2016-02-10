@@ -1,6 +1,6 @@
 ---
 type: post
-title: Slow Code
+title: Slow(er) Code
 categories: code practice
 ---
 So we've slowed things down a bit. Far be it from me to complain, as I have yet to really grasp some of the syntactic maneuvers of coding arrays. But I'm interested in exploring a bit how this slowing down feels compared to the brisk pace we had been experiencing the first few weeks.
