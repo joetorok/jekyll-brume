@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Haraway's Cyborg
-categories: notes, haraway, cyborg
+categories: notes haraway cyborg
 ---
 Haraway's cyborg figure, on my initial reading of "A Cyborg Manifesto," seems historically situated in Reagan era conversations about the history of feminism, identity politics more generally, and the naming and defining of feminism, or other kinds of 'isms' for that matter. In this manifesto, Haraway seems to clearly articulate cyborg imagery as instrumental in a vision that eschews theoretical totalizing, describing it as "a major mistake that misses most of reality" (316). Cyborg imagery, Haraway notes, resists both hostility to science and  "a demonology of technology" (316).
 
