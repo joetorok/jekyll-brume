@@ -1,6 +1,6 @@
 ---
 type: post
-title: Manovich: Language of New Media
+title: Manovich, Language of New Media
 categories: notes manovich
 ---
 I’m drawn to Manovich’s intro and first chapter as a presentation of his framework (key terms and principles) for theorizing new media and for its historical overview of the emergence of new media. I could use any of the five principles of new media (numerical representation, modularity, automation, variability, transcoding) as a jumping off point, or engage some of the historical account Manovich details as computation and media converge. What I'm saying is that's rich ground here and I dig it.
