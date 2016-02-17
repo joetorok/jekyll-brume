@@ -1,5 +1,5 @@
 ---
-type: post
+layout: post
 title: Manovich and New Media
 categories: notes manovich
 ---
