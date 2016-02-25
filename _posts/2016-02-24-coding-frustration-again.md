@@ -1,0 +1,10 @@
+---
+layout: post
+title: Complex Frustrations
+categories: reflection coding
+---
+This week, I got a little frustrated, but it had nothing to do with actual coding. Instead, my frustration came from some slight of hand by Atom. Here’s the quick and dirty version of the story.
+
+I was working with a number of branches on the bubbles project, going back and forth between versions of the code as organized around dailies. I was nearly completed (as I discussed last week) and working on the final daily that tasked me with coming up with my own shapes moving in a different way, etc. As I was bouncing back and forth between versions of the various daily branches in Atom, I discovered, in slow boil fashion, that a couple of my dailies had, somehow, got code confused with other dailies. I lost some work, and spent quite a bit of time trying to figure out exactly what got displaced in what. If that’s confusing, imagine how I felt trying to open a webpage expecting 500 bubbles and getting some mouse-press bubbles.
+
+I wanted to think through this, in part, because it reminded me of the opacity of the technology we’re dealing with as described by Stiegler. It hits home in moments of frustration that surface due to bugs, crashes, network interruptions, glitches, and so on. It’s not just an opacity of any individual pice of digital software or piece of hardware that’s ineffable; it’s the complex layers of technologies working with, or against, each other that produces what might be considered layer upon layer of opacity, as if layers were necessary. Part of the practice of coding, I think, is coming to terms with not just the deep opacity, but what I might consider the deep complexity of the technologies I’m interacting with. [Todd](http://tbreijak.github.io/blog/2016-02-24/Keying-Up-a-Ball-As-a-Group-Effort.html) feels me this week for sure, in his declaration (as I paraphrase) that shit gets fucked up easy. Todd, my friend in frustration, true that, even beyond that tricky little imp we call code.
