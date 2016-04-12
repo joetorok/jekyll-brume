@@ -1,3 +1,10 @@
+---
+layout: post
+title: The Opacity of Food Production
+categories: project
+---
+(This project was tested and authored with [Nathaniel](http://nattybee.github.io/))
+
 **Goals**
 
 1) Partial surfacing of the technologies of industrialized food production
