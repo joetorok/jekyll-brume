@@ -1,10 +1,10 @@
 ---
 layout: post
 title: The Opacity of Food Production
-categories: project
+categories: makey
 ---
 
-(This project was tested and coauthored with [Nathaniel](http://nattybee.github.io/))
+This project was tested and coauthored with [Nathaniel](http://nattybee.github.io/)
 
 **Goals**
 
