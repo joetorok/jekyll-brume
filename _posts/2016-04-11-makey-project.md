@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Opacity of Food Production: A Makey Makey Project
+title: The Opacity of Food Production
 categories: project
 ---
 
