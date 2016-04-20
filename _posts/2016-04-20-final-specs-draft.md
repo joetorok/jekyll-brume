@@ -15,14 +15,16 @@ Analytical Prototype Specs: Twitter Bot
 - Link to a twitter bot
 - Description of the process of making the Twitter bot
 
-Rationale
-* Approximately 1,000 words (+/- 20%)
-* Reference at least two authors we have read in class
-* Articulate the humanistic and/or aesthetic problems towards which the prototype is oriented
-* Describe how the project is motivated: Why use the specific parameters that I use in the bot? Is the bot working aesthetically? Rhetorically? In some other way?  To what end?
-* Specify what I have learned in the process of making the project.
+2) Rationale
 
-Variation
-* Approximately 1,000 words (+/- 20%)
-* Reference at least four authors we have read in class
-* Explore how changing the the parameters of the Twitter bot would change its effects. Describe 3-5 variations which would produce different effects. How would the bot change with different parameters oriented toward different ends?
+- Approximately 1,000 words (+/- 20%)
+- Reference at least two authors we have read in class
+- Articulate the humanistic and/or aesthetic problems towards which the prototype is oriented
+- Describe how the project is motivated: Why use the specific parameters that I use in the bot? Is the bot working aesthetically? Rhetorically? In some other way?  To what end?
+- Specify what I have learned in the process of making the project.
+
+3) Variation
+
+- Approximately 1,000 words (+/- 20%)
+- Reference at least four authors we have read in class
+- Explore how changing the the parameters of the Twitter bot would change its effects. Describe 3-5 variations which would produce different effects. How would the bot change with different parameters oriented toward different ends?
