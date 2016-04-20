@@ -9,10 +9,10 @@ Below is a draft of the specs, and here they are in a [Google Doc that allows co
 
 Analytical Prototype Specs: Twitter Bot
 
-Results
-* Approximately 300-500 words (+/- 20%)
-* Link to a twitter bot
-* Description of the process of making the Twitter bot
+1) Results
+- Approximately 300-500 words (+/- 20%)
+- Link to a twitter bot
+- Description of the process of making the Twitter bot
 
 Rationale
 * Approximately 1,000 words (+/- 20%)
