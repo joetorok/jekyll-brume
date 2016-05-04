@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Twitter Bot as Analytical Prototype
+title: Twitter Bot as Analytical Prototype (Final Project)
 categories: bot twitter
 ---
 
